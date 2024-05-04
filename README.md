@@ -1,6 +1,7 @@
 # FileManipulationExcel-VBA
 
-    Sub ExtractDataFromAllWorksheets()
+Sub ExtractDataFromAllWorksheets()
+    
     Dim targetWS As Worksheet
     Dim targetColumn As Integer
     Dim lastRowTarget As Long
